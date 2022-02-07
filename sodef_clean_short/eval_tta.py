@@ -145,14 +145,10 @@ if __name__ == '__main__':
         for c in range(n_batches):
             x_test_curr = x_test[c * args.batch_size:(c + 1) * args.batch_size]
             y_test_curr = y_test[c * args.batch_size:(c + 1) * args.batch_size]
-            x_adv_curr, x_best_curr = apgd_interm_restarts(test_model, test_model, None,
-                x_test_curr, y_test_curr, use_interm='interm' in args.attack, #step_size=args.step_size,
-                n_restarts=args.n_restarts, verbose=True, n_iter=args.n_iter,
-                loss=args.loss, ebm=None, x_init=x_init, eps=args.eps,
-                norm=args.norm, use_ge='_ge' in args.attack, ge_iters=args.ge_iters,
-                ge_eta=args.ge_eta, ge_prior=args.use_prior, bpda_type=None, #args.bpda_type
-                eot_test=0, #args.eot_test
-                log_path=f'{logsdir}/{runname}.txt')
+            x_adv_curr, x_best_curr = apgd_restarts(test_model,
+                x_test_curr, y_test_curr, n_restarts=args.n_restarts,
+                verbose=True, n_iter=args.n_iter, loss=args.loss, eps=args.eps,
+                norm=args.norm, log_path=f'{logsdir}/{runname}.txt')
             x_adv[c * args.batch_size:(c + 1) * args.batch_size] = x_adv_curr.clone()
             x_best[c * args.batch_size:(c + 1) * args.batch_size] = x_best_curr.clone()
         torch.save(x_adv, f'{savedir}/{runname}.pth')
