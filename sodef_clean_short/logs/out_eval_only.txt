@@ -1,0 +1,36 @@
+AA on base model from Rebuffi et al. (2021)
+Files already downloaded and verified
+data loaded
+model loaded
+torch.Size([1000, 3, 32, 32])
+test_points_1_1000_Linf_eps_0.03137 eval_fast_1_1000_Linf_eps_0.03137_short_second.pth
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_orig] robust acc=65.0%
+[rebuffi_orig] robust acc=65.0%
+runs=1 single run time=6.485 s
+
+transfer AA
+Files already downloaded and verified
+data loaded
+model loaded
+torch.Size([1000, 3, 32, 32])
+test_points_1_1000_Linf_eps_0.03137 eval_fast_1_1000_Linf_eps_0.03137_short_second.pth
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=73.0%
+[rebuffi_sodef] robust acc=73.0%
+runs=1 single run time=6.751 s
+
+worst-case among different attacks on Rebuffi et al. with SODEF defense
+Files already downloaded and verified
+data loaded
+model loaded
+torch.Size([1000, 3, 32, 32])
+test_points_1_1000_Linf_eps_0.03137 find_wc_1_1000_Linf_eps_0.03137.pth
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.1%
+[rebuffi_sodef] robust acc=64.1%
+runs=1 single run time=6.668 s
+

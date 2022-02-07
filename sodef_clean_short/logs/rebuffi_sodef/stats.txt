@@ -1,0 +1,171 @@
+test_points_1_1000_Linf_eps_0.03137 clean points
+max Linf pert: 0.00000, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=94.3%
+[rebuffi_sodef] robust acc=94.3%
+runs=1 single run time=7.182 s
+
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_l1_nrestarts_1_init_None.pth
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_25_loss_l1_nrestarts_4_init_None.pth
+./results/rebuffi_sodef/eval_fast_1_1000_Linf_eps_0.03137.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_dlr-targeted_nrestarts_9_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_cw_nrestarts_1_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_dlr-targeted_nrestarts_3_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_ce_nrestarts_1_init_None_best.pth
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_l1_nrestarts_1_init_None.pth
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_25_loss_l1_nrestarts_4_init_None.pth
+./results/rebuffi_sodef/eval_fast_1_1000_Linf_eps_0.03137.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_dlr-targeted_nrestarts_9_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_cw_nrestarts_1_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_dlr-targeted_nrestarts_3_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_ce_nrestarts_1_init_None_best.pth
+[rob acc] cum=68.1% curr=68.1%
+[rob acc] cum=65.6% curr=69.6%
+[rob acc] cum=65.2% curr=67.8%
+[rob acc] cum=65.1% curr=69.4%
+[rob acc] cum=64.5% curr=70.9%
+[rob acc] cum=64.2% curr=71.8%
+[rob acc] cum=64.1% curr=75.2%
+find_wc_1_1000_Linf_eps_0.03137
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.2%
+[rebuffi_sodef] robust acc=64.2%
+runs=1 single run time=11.331 s
+
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_l1_nrestarts_1_init_None.pth
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_25_loss_l1_nrestarts_4_init_None.pth
+./results/rebuffi_sodef/eval_fast_1_1000_Linf_eps_0.03137.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_dlr-targeted_nrestarts_9_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_cw_nrestarts_1_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_dlr-targeted_nrestarts_3_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_ce_nrestarts_1_init_None_best.pth
+[rob acc] cum=68.1% curr=68.1%
+[rob acc] cum=65.5% curr=69.4%
+[rob acc] cum=65.2% curr=67.8%
+[rob acc] cum=65.1% curr=69.3%
+[rob acc] cum=64.5% curr=71.2%
+[rob acc] cum=64.2% curr=71.8%
+[rob acc] cum=64.1% curr=75.3%
+find_wc_1_1000_Linf_eps_0.03137
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.1%
+[rebuffi_sodef] robust acc=64.1%
+runs=1 single run time=8.853 s
+
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_l1_nrestarts_1_init_None.pth
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_25_loss_l1_nrestarts_4_init_None.pth
+./results/rebuffi_sodef/eval_fast_1_1000_Linf_eps_0.03137.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_dlr-targeted_nrestarts_9_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_cw_nrestarts_1_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_dlr-targeted_nrestarts_3_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_ce_nrestarts_1_init_None_best.pth
+[rob acc] cum=68.1% curr=68.1%
+[rob acc] cum=65.5% curr=69.4%
+[rob acc] cum=65.2% curr=67.8%
+[rob acc] cum=65.1% curr=69.3%
+[rob acc] cum=64.5% curr=71.2%
+[rob acc] cum=64.2% curr=71.8%
+[rob acc] cum=64.1% curr=75.3%
+find_wc_1_1000_Linf_eps_0.03137
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.1%
+[rebuffi_sodef] robust acc=64.1%
+runs=1 single run time=4.282 s
+
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_l1_nrestarts_1_init_None.pth
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_25_loss_l1_nrestarts_4_init_None.pth
+./results/rebuffi_sodef/eval_fast_1_1000_Linf_eps_0.03137.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_dlr-targeted_nrestarts_9_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_cw_nrestarts_1_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_dlr-targeted_nrestarts_3_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_ce_nrestarts_1_init_None_best.pth
+[rob acc] cum=75.3% curr=75.3%
+[rob acc] cum=71.4% curr=71.8%
+[rob acc] cum=67.9% curr=71.2%
+[rob acc] cum=64.8% curr=69.3%
+[rob acc] cum=64.4% curr=67.8%
+[rob acc] cum=64.3% curr=69.4%
+[rob acc] cum=64.1% curr=68.1%
+find_wc_1_1000_Linf_eps_0.03137
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.2%
+[rebuffi_sodef] robust acc=64.2%
+runs=1 single run time=4.269 s
+
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_l1_nrestarts_1_init_None.pth
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_25_loss_l1_nrestarts_4_init_None.pth
+./results/rebuffi_sodef/eval_fast_1_1000_Linf_eps_0.03137.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_dlr-targeted_nrestarts_9_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_cw_nrestarts_1_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_dlr-targeted_nrestarts_3_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_ce_nrestarts_1_init_None_best.pth
+[rob acc] cum=75.3% curr=75.3%
+[rob acc] cum=71.4% curr=71.8%
+[rob acc] cum=67.9% curr=71.2%
+[rob acc] cum=64.8% curr=69.3%
+[rob acc] cum=64.4% curr=67.8%
+[rob acc] cum=64.3% curr=69.4%
+[rob acc] cum=64.1% curr=68.1%
+find_wc_1_1000_Linf_eps_0.03137
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.2%
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_l1_nrestarts_1_init_None.pth
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_25_loss_l1_nrestarts_4_init_None.pth
+./results/rebuffi_sodef/eval_fast_1_1000_Linf_eps_0.03137.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_dlr-targeted_nrestarts_9_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_cw_nrestarts_1_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_dlr-targeted_nrestarts_3_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_ce_nrestarts_1_init_None_best.pth
+[rob acc] cum=75.3% curr=75.3%
+[rob acc] cum=71.4% curr=71.8%
+[rob acc] cum=67.9% curr=71.2%
+[rob acc] cum=64.8% curr=69.3%
+[rob acc] cum=64.4% curr=67.8%
+[rob acc] cum=64.3% curr=69.4%
+[rob acc] cum=64.1% curr=68.1%
+find_wc_1_1000_Linf_eps_0.03137
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.2%
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_l1_nrestarts_1_init_None.pth
+./results/rebuffi_sodef/apgd_1_1000_Linf_eps_0.03137_niter_25_loss_l1_nrestarts_4_init_None.pth
+./results/rebuffi_sodef/eval_fast_1_1000_Linf_eps_0.03137.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_100_loss_dlr-targeted_nrestarts_9_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_cw_nrestarts_1_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_dlr-targeted_nrestarts_3_init_None_best.pth
+./results/rebuffi_orig/apgd_1_1000_Linf_eps_0.03137_niter_99_loss_ce_nrestarts_1_init_None_best.pth
+[rob acc] cum=68.1% curr=68.1%
+[rob acc] cum=65.5% curr=69.4%
+[rob acc] cum=65.2% curr=67.8%
+[rob acc] cum=65.1% curr=69.3%
+[rob acc] cum=64.5% curr=71.2%
+[rob acc] cum=64.2% curr=71.8%
+[rob acc] cum=64.1% curr=75.3%
+find_wc_1_1000_Linf_eps_0.03137
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.1%
+[rebuffi_sodef] robust acc=64.1%
+runs=1 single run time=4.345 s
+
+test_points_1_1000_Linf_eps_0.03137 eval_fast_1_1000_Linf_eps_0.03137_short_second.pth
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=73.0%
+[rebuffi_sodef] robust acc=73.0%
+runs=1 single run time=6.751 s
+
+test_points_1_1000_Linf_eps_0.03137 find_wc_1_1000_Linf_eps_0.03137.pth
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.1%
+[rebuffi_sodef] robust acc=64.1%
+runs=1 single run time=6.668 s
+
+test_points_1_1000_Linf_eps_0.03137 eval_fast_1_1000_Linf_eps_0.03137_short_second.pth
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=73.0%
+[rebuffi_sodef] robust acc=73.0%
+runs=1 single run time=6.784 s
+
+test_points_1_1000_Linf_eps_0.03137 find_wc_1_1000_Linf_eps_0.03137.pth
+max Linf pert: 0.03137, nan in imgs: 0, max in imgs: 1.00000, min in imgs: 0.00000
+[rebuffi_sodef] robust acc=64.1%
+[rebuffi_sodef] robust acc=64.1%
+runs=1 single run time=6.666 s
+
